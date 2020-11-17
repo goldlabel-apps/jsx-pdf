@@ -2,7 +2,7 @@
 
 > Built on jsPDF, makes pdf generation in React easy
 
-#jsPDF
+# jsPDF
 
 [![Inline docs](http://inch-ci.org/github/MrRio/jsPDF.svg?branch=master)](http://inch-ci.org/github/MrRio/jsPDF)
 
